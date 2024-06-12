@@ -1,0 +1,15 @@
+:root{
+    --branco: white;
+    --cor-de-fundo: #00162E;
+    --fundo-senha: #00244D;
+    --fundo-texto: #001E40;
+    --borda: #0075FF;
+} 
+*{
+    font-weight: 400
+}
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+}
